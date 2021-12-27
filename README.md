@@ -1,2 +1,2 @@
 # Message-Encode-Decoder
-A program that encodes and decodes a message built with Python, Tkinter, and Python Base64
+A Python program that encodes and decodes a message using Tkinter and Python Base64.
