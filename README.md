@@ -5,6 +5,11 @@ A Python program that encodes and decodes a message. Built with Tkinter and Pyth
 ### How to use the program
 
 <ul>
+  <li>Run the program</li>
+    <ul>
+      <li>Clone or download the repo.</li>
+      <li>Run <code>python3 main.py</code></li>
+    </ul>
   <li>Encode</li>
     <ul>
       <li>Type your message in the Message area</li>
